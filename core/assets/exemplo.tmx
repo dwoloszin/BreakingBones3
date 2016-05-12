@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="240" tilewidth="16" tileheight="16" nextobjectid="4">
+ <tileset firstgid="1" name="pset" tilewidth="16" tileheight="16" spacing="2" margin="1" tilecount="408" columns="17">
+  <image source="pset.png" width="309" height="446"/>
+ </tileset>
+ <layer name="BackGround" width="240" height="240">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEKgDAQAMH8/wmJj9XSUkHRhSmOTHUcgZ1jjHXMdsz80PMHNxR95d/Os07vk/e8sZM71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9+uWv96pe71q9++b532gs8aQ==
+  </data>
+ </layer>
+ <layer name="graphics" width="240" height="240">
+  <data encoding="base64" compression="zlib">
+   eJzt08lOFGEARlFafQEnZjZOzKyZWTPzNupOd+rLOr2A1xCTDjYmJI2wOCd9U9VV/6I238QEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA98nkYGJiqqZrpmZrruZrYXDXXwf8y2IbXarlWqnVWqv12rBfuNc22+hWbddO7dZe7deB/cK9dthGj+q4Tuq0zuq8LuwXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAb+Frf6nv9qJ93+znATQz61YN6WI8Gfx+Z7NlUTddMzdZczdfCiPPA7Xnb5t7V+3pcT+ppPavng8v3w2cWa6mWa6VWa63Wa8N+4b/61OY+15d6US/rVb2uN4PL98NnNmurtmundmuv9uvgytaH74Hx+zC47ONg9P3w/9/Xwzqq4zqp0zqr87q4svXhe2D8/uxyeKPXNWrbo3Y+6jkwftdtcZzZLwAAAAAAAAAAAAAAAADcrl9sBEBY
+  </data>
+ </layer>
+ <objectgroup name="Wall">
+  <object id="1" x="64.5" y="3536.5" width="191.5" height="24.5"/>
+  <object id="2" x="480" y="3551.5" height="23.5"/>
+  <object id="3" x="257" y="3551.5" width="222" height="25.5"/>
+ </objectgroup>
+ <objectgroup name="pipes"/>
+ <objectgroup name="coins"/>
+ <objectgroup name="bricks"/>
+</map>
