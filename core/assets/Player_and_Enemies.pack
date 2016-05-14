@@ -1,0 +1,75 @@
+
+Player_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SkullDragonKing
+  rotate: false
+  xy: 1, 794
+  size: 631, 227
+  orig: 631, 227
+  offset: 0, 0
+  index: -1
+inimigo base 8
+  rotate: false
+  xy: 1, 517
+  size: 454, 275
+  orig: 454, 275
+  offset: 0, 0
+  index: -1
+inimigo base 3
+  rotate: false
+  xy: 1, 259
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+player base
+  rotate: false
+  xy: 1, 1
+  size: 384, 256
+  orig: 384, 256
+  offset: 0, 0
+  index: -1
+inimigo base 2
+  rotate: false
+  xy: 634, 829
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+inimigo base 4
+  rotate: false
+  xy: 457, 600
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+inimigo base 5
+  rotate: false
+  xy: 764, 829
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+inimigo base 6
+  rotate: false
+  xy: 894, 829
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+inimigo base 7
+  rotate: false
+  xy: 387, 323
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1
+inimigo base
+  rotate: false
+  xy: 387, 129
+  size: 128, 192
+  orig: 128, 192
+  offset: 0, 0
+  index: -1

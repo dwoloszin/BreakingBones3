@@ -1,0 +1,33 @@
+
+Player.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+PlayerCostas
+  rotate: false
+  xy: 1, 1
+  size: 97, 31
+  orig: 97, 31
+  offset: 0, 0
+  index: -1
+PlayerDireita
+  rotate: false
+  xy: 100, 1
+  size: 97, 31
+  orig: 97, 31
+  offset: 0, 0
+  index: -1
+PlayerEsquerdo
+  rotate: false
+  xy: 199, 1
+  size: 97, 31
+  orig: 97, 31
+  offset: 0, 0
+  index: -1
+playerFrente
+  rotate: false
+  xy: 298, 1
+  size: 97, 31
+  orig: 97, 31
+  offset: 0, 0
+  index: -1

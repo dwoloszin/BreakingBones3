@@ -23,6 +23,8 @@ public class B2WorldCreator {
         FixtureDef fdef = new FixtureDef();
         Body body;
 
+
+
         //create de Doors
         for(MapObject object : map.getLayers().get(2).getObjects().getByType(RectangleMapObject.class)){
             Rectangle rect = ((RectangleMapObject) object).getRectangle();
@@ -42,6 +44,7 @@ public class B2WorldCreator {
 
 
         }
+
 
 
 
